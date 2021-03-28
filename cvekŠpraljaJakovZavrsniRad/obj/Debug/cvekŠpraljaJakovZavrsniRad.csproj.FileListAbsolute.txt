@@ -1,0 +1,40 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form1.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form1.resources
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Properties.Resources.resources
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Učenik 1\source\repos\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form1.resources
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\ZavrsniRad-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form1.resources
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
