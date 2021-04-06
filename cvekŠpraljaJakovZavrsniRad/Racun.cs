@@ -8,15 +8,23 @@ namespace cvekŠpraljaJakovZavrsniRad
 {
     class Racun
     {
-        int brojRac;
+        static int brojRac = 0;
         double total;
         DateTime datum;
+        int broj;
 
-        public Racun(int brojRac, double total, DateTime datum)
+        public Racun(double total, DateTime datum)
         {
-            this.brojRac = brojRac;
             this.total = total;
             this.datum = datum;
+            this.broj = brojRac++;
         }
+
+        public override string ToString()
+        {
+            string ispis = "Racun broj: " + broj + "\r\n" + "Datum: " + datum + "\r\n" + "Total: " + total + "kn";
+            return ispis;
+        }
+
     }
 }

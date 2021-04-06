@@ -38,3 +38,14 @@ C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cv
 C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
 C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
 C:\Users\Lenovo\Desktop\Zavrsni-main\Zavrsni-main\cvekŠpraljaJakovZavrsniRad\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe.config
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\bin\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form1.resources
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Sladoled.resources
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb

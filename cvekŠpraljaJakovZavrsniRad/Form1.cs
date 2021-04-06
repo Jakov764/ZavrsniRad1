@@ -20,7 +20,7 @@ namespace cvekŠpraljaJakovZavrsniRad
         int brojKuglicaPist;
         int brojKuglicaKeks;
         int brojKuglicaSladoled;
-        int ukupnaCijena = 0;
+        double ukupnaCijena = 0.00;
 
         public Form1()
         {
@@ -34,6 +34,19 @@ namespace cvekŠpraljaJakovZavrsniRad
 
         private void btnRacun_Click(object sender, EventArgs e)
         {
+            double total = 0;
+            /*
+            foreach (Sladoled sladoled in racun)
+            {
+                double cijena = sladoled.Izracun();
+                total += cijena;
+            }
+            */
+
+            Racun rac = new Racun(total, DateTime.Now);
+
+            richTextBox1.Text = rac.ToString();
+
 
         }
         
@@ -223,7 +236,7 @@ namespace cvekŠpraljaJakovZavrsniRad
             }
         }
 
-        List<Racun> racun = new List<Racun>();
+        List<Sladoled> racun = new List<Sladoled>();
 
         bool oblikSladoled;
 
@@ -232,24 +245,27 @@ namespace cvekŠpraljaJakovZavrsniRad
         private void BtnGotov_Click(object sender, EventArgs e)
         {
             brojKuglicaSladoled = brojKuglicaCoko + brojKuglicaVan + brojKuglicaJag + brojKuglicaStrac + brojKuglicaPist + brojKuglicaKeks;
-            
+            double cijena = 0.00;
+
+
             if (radBtnKorn.Checked)
             {
                 oblikSladoled = true;
                 stanje = "Kornet";
+                cijena = 7 * brojKuglicaSladoled;
             }
 
             if (radBtnCasa.Checked)
             {
                 oblikSladoled = false;
                 stanje = "Čaša";
+                cijena = 12 * brojKuglicaSladoled;
             }
-            Sladoled obj = new Sladoled(brojKuglicaSladoled, oblikSladoled);
+            Sladoled obj = new Sladoled(brojKuglicaSladoled, stanje, cijena);
 
-            //racun.Add(obj);
+            racun.Add(obj);
 
-
-            double total = obj.Izracun();
+            
 
             checkBoxCoko.Checked = false;
             checkBoxVan.Checked = false;
@@ -318,10 +334,11 @@ namespace cvekŠpraljaJakovZavrsniRad
         }
 
         
-
+        /*
         public override string ToString()
         {
-            return ("Broj kuglica: " + brojKuglicaSladoled.ToString() + ", Oblik: " + stanje +  ", Cijena: " + "" + "\r\n" + brojKuglicaKeks.ToString() );
+            return ("Broj kuglica: " + brojKuglicaSladoled + ", Oblik: " + stanje +  ", Cijena: " + "" + "\r\n" + brojKuglicaKeks.ToString() );
         }
+        */
     }
 }
