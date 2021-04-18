@@ -49,7 +49,7 @@ namespace cvekŠpraljaJakovZavrsniRad
 
         public override string ToString()
         {
-            return ("Broj kuglica: " + brojKuglica + ", Oblik: " + oblikSladoled + ", Cijena: " + cijena);
+            return ("Broj kuglica: " + brojKuglica + ",     Oblik: " + oblikSladoled + ",     Cijena: " + cijena + "\r\n");
         }
     }
 

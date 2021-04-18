@@ -34,18 +34,22 @@ namespace cvekŠpraljaJakovZavrsniRad
 
         private void btnRacun_Click(object sender, EventArgs e)
         {
+            
             double total = 0;
-            /*
+            
             foreach (Sladoled sladoled in racun)
             {
-                double cijena = sladoled.Izracun();
+                double cijena = sladoled.Cijena;
                 total += cijena;
             }
-            */
+            
 
             Racun rac = new Racun(total, DateTime.Now);
 
             richTextBox1.Text = rac.ToString();
+            
+            Form2 f2 = new Form2();
+            f2.ShowDialog();
 
 
         }
@@ -244,6 +248,7 @@ namespace cvekŠpraljaJakovZavrsniRad
 
         private void BtnGotov_Click(object sender, EventArgs e)
         {
+            brojKuglicaSladoled = 0;
             brojKuglicaSladoled = brojKuglicaCoko + brojKuglicaVan + brojKuglicaJag + brojKuglicaStrac + brojKuglicaPist + brojKuglicaKeks;
             double cijena = 0.00;
 
@@ -280,6 +285,13 @@ namespace cvekŠpraljaJakovZavrsniRad
             textBoxStrac.Text = "0";
             textBoxPis.Text = "0";
             textBoxKeks.Text = "0";
+
+            brojKuglicaCoko = 0;
+            brojKuglicaVan = 0;
+            brojKuglicaJag = 0;
+            brojKuglicaStrac = 0;
+            brojKuglicaPist = 0;
+            brojKuglicaKeks = 0;
 
             radBtnCasa.Checked = false;
             radBtnKorn.Checked = false;

@@ -49,3 +49,6 @@ C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZ
 C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.exe
 C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.pdb
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form2.resources
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form3.resources
+C:\Users\Lenovo\Desktop\cvekŠpraljaJakovZavrsniRad\obj\Debug\cvekŠpraljaJakovZavrsniRad.Form4.resources
